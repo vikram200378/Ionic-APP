@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "donovan-benko-app"
+  },
+  "targets": {
+    "donovan-benko-app": {
+      "hosting": {
+        "app": [
+          "donovan-benko-app"
+        ]
+      }
+    }
+  }
+}

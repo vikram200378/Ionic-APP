@@ -1,0 +1,8 @@
+{
+  "name": "Tap",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

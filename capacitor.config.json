@@ -1,0 +1,25 @@
+{
+    "appId": "tapnetworkapp.com",
+    "appName": "Tap",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "www",
+    "plugins": {
+      "SplashScreen": {
+        "launchShowDuration": 0,
+        "launchAutoHide": true,
+        "backgroundColor": "#000000"
+        },
+      "Badge": {
+        "persist": true,
+        "autoClear": false
+      },
+      "PushNotifications": {
+        "presentationOptions": ["badge", "sound", "alert"]
+      }
+    },
+    "cordova": {},
+    "ios":{
+      "icon": "resources/icon"
+    }
+  }

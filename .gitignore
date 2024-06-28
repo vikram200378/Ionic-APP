@@ -1,0 +1,14 @@
+
+/node_modules
+/.package-lock.json
+/package-lock.json
+/.history
+.idea/
+/android
+/www
+/.DS_Store
+/.vscode
+/.www
+/ios
+/.ios
+/docs
